@@ -1039,5 +1039,565 @@
     "category": "14_Daily_Plus",
     "inPlace": false,
     "withSkin": false
+  },
+{
+    "file": "15_NPC_Idle/Idle - Female.fbx",
+    "name": "Idle - Female",
+    "zh": "女生待机",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Idle - Standing Short.fbx",
+    "name": "Idle - Standing Short",
+    "zh": "普通待机（短）",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Idle - Weight Shift.fbx",
+    "name": "Idle - Weight Shift",
+    "zh": "重心换脚待机",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Idle Looking Around 1.fbx",
+    "name": "Idle Looking Around 1",
+    "zh": "四处张望待机 1",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Idle Looking Around 2.fbx",
+    "name": "Idle Looking Around 2",
+    "zh": "四处张望待机 2",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Look Over Shoulder - Nervous.fbx",
+    "name": "Look Over Shoulder - Nervous",
+    "zh": "紧张地回头一瞥",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Looking Behind.fbx",
+    "name": "Looking Behind",
+    "zh": "回头看身后",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Looking Far - Shading Eyes.fbx",
+    "name": "Looking Far - Shading Eyes",
+    "zh": "手搭凉棚远眺（看海）",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Old Man Idle.fbx",
+    "name": "Old Man Idle",
+    "zh": "老人待机",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "15_NPC_Idle/Weight Shift Side To Side.fbx",
+    "name": "Weight Shift Side To Side",
+    "zh": "左右晃身待机",
+    "category": "15_NPC_Idle",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Clap.fbx",
+    "name": "Sitting Clap",
+    "zh": "坐着鼓掌（敷衍）",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Disapproval.fbx",
+    "name": "Sitting Disapproval",
+    "zh": "坐着摇手指不赞同",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Fidgeting Feet.fbx",
+    "name": "Sitting Fidgeting Feet",
+    "zh": "坐着晃脚",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Hands On Thighs.fbx",
+    "name": "Sitting Hands On Thighs",
+    "zh": "端坐（手放腿上）",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Impatiently Waiting.fbx",
+    "name": "Sitting Impatiently Waiting",
+    "zh": "坐着不耐烦地等",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting On Floor.fbx",
+    "name": "Sitting On Floor",
+    "zh": "坐在地上",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Reclined On Floor.fbx",
+    "name": "Sitting Reclined On Floor",
+    "zh": "后仰坐在地上",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Rubbing Arm.fbx",
+    "name": "Sitting Rubbing Arm",
+    "zh": "坐着搓手臂（冷/不安）",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Sitting Thumbs Up.fbx",
+    "name": "Sitting Thumbs Up",
+    "zh": "坐着竖大拇指",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "16_Sitting/Waking Up While Sitting.fbx",
+    "name": "Waking Up While Sitting",
+    "zh": "坐着打瞌睡后醒来",
+    "category": "16_Sitting",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Holding Object Idle.fbx",
+    "name": "Holding Object Idle",
+    "zh": "手里拿着东西站着",
+    "category": "17_Interaction",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Holding Object Walk.fbx",
+    "name": "Holding Object Walk",
+    "zh": "手里拿着东西走",
+    "category": "17_Interaction",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Patting On The Back.fbx",
+    "name": "Patting On The Back",
+    "zh": "拍拍对方的背",
+    "category": "17_Interaction",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Shaking Hands - Female Side.fbx",
+    "name": "Shaking Hands - Female Side",
+    "zh": "握手（女方）",
+    "category": "17_Interaction",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Shaking Hands - Male Side.fbx",
+    "name": "Shaking Hands - Male Side",
+    "zh": "握手（男方）",
+    "category": "17_Interaction",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "17_Interaction/Taking Item.fbx",
+    "name": "Taking Item",
+    "zh": "接过东西端详",
+    "category": "17_Interaction",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Being Cocky.fbx",
+    "name": "Being Cocky",
+    "zh": "得意",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Covering Face In Shame.fbx",
+    "name": "Covering Face In Shame",
+    "zh": "捂脸",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Defeated.fbx",
+    "name": "Defeated",
+    "zh": "泄气、懊恼",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Dismissing Gesture.fbx",
+    "name": "Dismissing Gesture",
+    "zh": "不屑地摆手",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Dizzy.fbx",
+    "name": "Dizzy",
+    "zh": "头晕",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Rejected.fbx",
+    "name": "Rejected",
+    "zh": "被拒绝",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Scared Jump.fbx",
+    "name": "Scared Jump",
+    "zh": "被吓一跳（从座位弹起）",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Shaking It Off.fbx",
+    "name": "Shaking It Off",
+    "zh": "甩甩身子松口气",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Stomping Foot.fbx",
+    "name": "Stomping Foot",
+    "zh": "跺脚撒气",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Terrified.fbx",
+    "name": "Terrified",
+    "zh": "吓坏了",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Thumbs Up.fbx",
+    "name": "Thumbs Up",
+    "zh": "竖大拇指",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "18_Emotion_Plus/Whatever Gesture.fbx",
+    "name": "Whatever Gesture",
+    "zh": "\"随便啦\"",
+    "category": "18_Emotion_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Crouching Idle.fbx",
+    "name": "Crouching Idle",
+    "zh": "蹲着待机",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Hiding.fbx",
+    "name": "Hiding",
+    "zh": "蹲下躲藏",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Injured Walk.fbx",
+    "name": "Injured Walk",
+    "zh": "受伤走路",
+    "category": "19_Story",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Jogging Stumble.fbx",
+    "name": "Jogging Stumble",
+    "zh": "跑着踉跄一下",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Run Look Back.fbx",
+    "name": "Run Look Back",
+    "zh": "跑着回头看",
+    "category": "19_Story",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Run Looking Behind.fbx",
+    "name": "Run Looking Behind",
+    "zh": "边跑边回头",
+    "category": "19_Story",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Running Tired To Dizzy.fbx",
+    "name": "Running Tired To Dizzy",
+    "zh": "跑累到头晕",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Scared Goofy Run.fbx",
+    "name": "Scared Goofy Run",
+    "zh": "女生慌张乱跑（搞笑）",
+    "category": "19_Story",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Slip And Fall Backwards.fbx",
+    "name": "Slip And Fall Backwards",
+    "zh": "滑倒向后摔",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Tripping.fbx",
+    "name": "Tripping",
+    "zh": "走路绊倒",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Vault Over Box.fbx",
+    "name": "Vault Over Box",
+    "zh": "翻过箱子躲起来",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "19_Story/Wiping Sweat.fbx",
+    "name": "Wiping Sweat",
+    "zh": "擦汗（夏天）",
+    "category": "19_Story",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Box Walk Arc.fbx",
+    "name": "Box Walk Arc",
+    "zh": "抱箱子走（向左弧线）",
+    "category": "20_Movement_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Female Walk Turn 180 Wide.fbx",
+    "name": "Female Walk Turn 180 Wide",
+    "zh": "女生走着大弧度掉头",
+    "category": "20_Movement_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Old Man Walk.fbx",
+    "name": "Old Man Walk",
+    "zh": "老人走路",
+    "category": "20_Movement_Plus",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Run Up Stairs.fbx",
+    "name": "Run Up Stairs",
+    "zh": "跑上楼梯",
+    "category": "20_Movement_Plus",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Step Up And Jump Over.fbx",
+    "name": "Step Up And Jump Over",
+    "zh": "踏上去跨过障碍",
+    "category": "20_Movement_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Texting And Walking - Female.fbx",
+    "name": "Texting And Walking - Female",
+    "zh": "女生边走边看手机",
+    "category": "20_Movement_Plus",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Walk Down Stairs.fbx",
+    "name": "Walk Down Stairs",
+    "zh": "下楼梯",
+    "category": "20_Movement_Plus",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Walk Up Stairs.fbx",
+    "name": "Walk Up Stairs",
+    "zh": "上楼梯",
+    "category": "20_Movement_Plus",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "20_Movement_Plus/Walking Phone Call - Female.fbx",
+    "name": "Walking Phone Call - Female",
+    "zh": "女生边走边接电话",
+    "category": "20_Movement_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Jumping Jacks.fbx",
+    "name": "Jumping Jacks",
+    "zh": "开合跳（早操）",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Salsa Dancing - Female.fbx",
+    "name": "Salsa Dancing - Female",
+    "zh": "萨尔萨（女）",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Soccer Juggling Header.fbx",
+    "name": "Soccer Juggling Header",
+    "zh": "颠球（头）",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Soccer Juggling Kick.fbx",
+    "name": "Soccer Juggling Kick",
+    "zh": "颠球（脚）",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Soccer Pass.fbx",
+    "name": "Soccer Pass",
+    "zh": "踢球传球",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "21_Sport_Dance/Swing Dancing.fbx",
+    "name": "Swing Dancing",
+    "zh": "摇摆舞",
+    "category": "21_Sport_Dance",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "22_Work_Scenery/Bartending.fbx",
+    "name": "Bartending",
+    "zh": "倒饮料递给客人（咖啡店/店员）",
+    "category": "22_Work_Scenery",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "22_Work_Scenery/Drinking Fountain.fbx",
+    "name": "Drinking Fountain",
+    "zh": "在饮水台喝水",
+    "category": "22_Work_Scenery",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "22_Work_Scenery/Kneeling Inspecting.fbx",
+    "name": "Kneeling Inspecting",
+    "zh": "蹲下检查东西",
+    "category": "22_Work_Scenery",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "22_Work_Scenery/Lying On Back Idle.fbx",
+    "name": "Lying On Back Idle",
+    "zh": "仰躺着（看天空）",
+    "category": "22_Work_Scenery",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "22_Work_Scenery/Writing Seated.fbx",
+    "name": "Writing Seated",
+    "zh": "坐着写字",
+    "category": "22_Work_Scenery",
+    "inPlace": false,
+    "withSkin": false
   }
 ]

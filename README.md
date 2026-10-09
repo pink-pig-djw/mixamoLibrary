@@ -178,3 +178,101 @@
 
 ## 没找到的
 - 吃东西、看书、扫地、看手表：Mixamo 上没有对应的动作，暂时跳过
+
+## 15_NPC_Idle
+
+- Idle - Standing Short.fbx — 普通待机（短）
+- Idle - Weight Shift.fbx — 重心换脚待机
+- Idle - Female.fbx — 女生待机
+- Weight Shift Side To Side.fbx — 左右晃身待机
+- Old Man Idle.fbx — 老人待机
+- Idle Looking Around 1.fbx — 四处张望待机 1
+- Idle Looking Around 2.fbx — 四处张望待机 2
+- Looking Far - Shading Eyes.fbx — 手搭凉棚远眺（看海）
+- Looking Behind.fbx — 回头看身后
+- Look Over Shoulder - Nervous.fbx — 紧张地回头一瞥
+
+## 16_Sitting
+
+- Sitting On Floor.fbx — 坐在地上
+- Sitting Reclined On Floor.fbx — 后仰坐在地上
+- Sitting Hands On Thighs.fbx — 端坐（手放腿上）
+- Sitting Fidgeting Feet.fbx — 坐着晃脚
+- Sitting Impatiently Waiting.fbx — 坐着不耐烦地等
+- Sitting Clap.fbx — 坐着鼓掌（敷衍）
+- Sitting Thumbs Up.fbx — 坐着竖大拇指
+- Sitting Disapproval.fbx — 坐着摇手指不赞同
+- Sitting Rubbing Arm.fbx — 坐着搓手臂（冷/不安）
+- Waking Up While Sitting.fbx — 坐着打瞌睡后醒来
+
+## 17_Interaction
+
+- Shaking Hands - Female Side.fbx — 握手（女方）
+- Shaking Hands - Male Side.fbx — 握手（男方）
+- Patting On The Back.fbx — 拍拍对方的背
+- Taking Item.fbx — 接过东西端详
+- Holding Object Idle.fbx — 手里拿着东西站着
+- Holding Object Walk.fbx — 手里拿着东西走（原地）
+
+## 18_Emotion_Plus
+
+- Thumbs Up.fbx — 竖大拇指
+- Terrified.fbx — 吓坏了
+- Scared Jump.fbx — 被吓一跳（从座位弹起）
+- Defeated.fbx — 泄气、懊恼
+- Rejected.fbx — 被拒绝
+- Covering Face In Shame.fbx — 捂脸
+- Dismissing Gesture.fbx — 不屑地摆手
+- Whatever Gesture.fbx — "随便啦"
+- Being Cocky.fbx — 得意
+- Stomping Foot.fbx — 跺脚撒气
+- Shaking It Off.fbx — 甩甩身子松口气
+- Dizzy.fbx — 头晕
+
+## 19_Story
+
+- Tripping.fbx — 走路绊倒
+- Slip And Fall Backwards.fbx — 滑倒向后摔
+- Jogging Stumble.fbx — 跑着踉跄一下
+- Run Looking Behind.fbx — 边跑边回头（原地）
+- Run Look Back.fbx — 跑着回头看（原地）
+- Injured Walk.fbx — 受伤走路（原地）
+- Running Tired To Dizzy.fbx — 跑累到头晕
+- Wiping Sweat.fbx — 擦汗（夏天）
+- Scared Goofy Run.fbx — 女生慌张乱跑（搞笑）（原地）
+- Hiding.fbx — 蹲下躲藏
+- Crouching Idle.fbx — 蹲着待机
+- Vault Over Box.fbx — 翻过箱子躲起来
+
+## 20_Movement_Plus
+
+- Walk Up Stairs.fbx — 上楼梯（原地）
+- Walk Down Stairs.fbx — 下楼梯（原地）
+- Run Up Stairs.fbx — 跑上楼梯（原地）
+- Texting And Walking - Female.fbx — 女生边走边看手机（原地）
+- Walking Phone Call - Female.fbx — 女生边走边接电话
+- Old Man Walk.fbx — 老人走路（原地）
+- Box Walk Arc.fbx — 抱箱子走（向左弧线）
+- Step Up And Jump Over.fbx — 踏上去跨过障碍
+- Female Walk Turn 180 Wide.fbx — 女生走着大弧度掉头
+
+## 21_Sport_Dance
+
+- Soccer Pass.fbx — 踢球传球
+- Soccer Juggling Kick.fbx — 颠球（脚）
+- Soccer Juggling Header.fbx — 颠球（头）
+- Jumping Jacks.fbx — 开合跳（早操）
+- Swing Dancing.fbx — 摇摆舞
+- Salsa Dancing - Female.fbx — 萨尔萨（女）
+
+## 22_Work_Scenery
+
+- Bartending.fbx — 倒饮料递给客人（咖啡店/店员）
+- Writing Seated.fbx — 坐着写字
+- Kneeling Inspecting.fbx — 蹲下检查东西
+- Lying On Back Idle.fbx — 仰躺着（看天空）
+- Drinking Fountain.fbx — 在饮水台喝水
+
+## 没找到的（已跳过）
+- 拥抱、击掌、双手合十拜托、歪头疑惑、靠栏杆远眺、冷得发抖、偶像舞、敲门、记事板：Mixamo 上没有对应动作
+- 用相近的动作替代了一部分：握手（男女两边）、拍背、接过东西、坐着搓手臂（冷/不安）、手搭凉棚远眺
