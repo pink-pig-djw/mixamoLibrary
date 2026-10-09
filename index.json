@@ -1,0 +1,642 @@
+[
+ {
+  "file": "01_Idle/Breathing Idle.fbx",
+  "name": "Breathing Idle",
+  "zh": "呼吸待机（带X Bot模型，可作参考骨骼）",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": true
+ },
+ {
+  "file": "01_Idle/Happy Idle.fbx",
+  "name": "Happy Idle",
+  "zh": "开心待机",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "01_Idle/Sad Idle.fbx",
+  "name": "Sad Idle",
+  "zh": "难过待机",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "01_Idle/Looking Around.fbx",
+  "name": "Looking Around",
+  "zh": "东张西望",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "01_Idle/Bored.fbx",
+  "name": "Bored",
+  "zh": "无聊",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "01_Idle/Yawn.fbx",
+  "name": "Yawn",
+  "zh": "打哈欠",
+  "category": "01_Idle",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Walking.fbx",
+  "name": "Walking",
+  "zh": "走路",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Running.fbx",
+  "name": "Running",
+  "zh": "跑步",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Fast Run.fbx",
+  "name": "Fast Run",
+  "zh": "快跑",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Walking Backwards.fbx",
+  "name": "Walking Backwards",
+  "zh": "后退走",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Left Strafe Walking.fbx",
+  "name": "Left Strafe Walking",
+  "zh": "向左侧移",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Right Strafe Walking.fbx",
+  "name": "Right Strafe Walking",
+  "zh": "向右侧移",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Crouched Walking.fbx",
+  "name": "Crouched Walking",
+  "zh": "蹲走",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Jogging.fbx",
+  "name": "Jogging",
+  "zh": "慢跑",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Sneak Walk.fbx",
+  "name": "Sneak Walk",
+  "zh": "潜行",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Running Backward.fbx",
+  "name": "Running Backward",
+  "zh": "后退跑",
+  "category": "02_Locomotion",
+  "inPlace": true,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Left Turn.fbx",
+  "name": "Left Turn",
+  "zh": "左转身",
+  "category": "02_Locomotion",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "02_Locomotion/Right Turn.fbx",
+  "name": "Right Turn",
+  "zh": "右转身",
+  "category": "02_Locomotion",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Jump.fbx",
+  "name": "Jump",
+  "zh": "原地跳",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Jumping.fbx",
+  "name": "Jumping",
+  "zh": "跳跃",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Falling Idle.fbx",
+  "name": "Falling Idle",
+  "zh": "下落中",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Falling To Landing.fbx",
+  "name": "Falling To Landing",
+  "zh": "下落着地",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Running Jump.fbx",
+  "name": "Running Jump",
+  "zh": "助跑跳",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Sprinting Forward Roll.fbx",
+  "name": "Sprinting Forward Roll",
+  "zh": "前滚翻",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Climbing Ladder.fbx",
+  "name": "Climbing Ladder",
+  "zh": "爬梯子",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Climbing.fbx",
+  "name": "Climbing",
+  "zh": "攀爬墙壁",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Braced Hang.fbx",
+  "name": "Braced Hang",
+  "zh": "挂在边缘",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "03_Jump_Climb/Jumping Down.fbx",
+  "name": "Jumping Down",
+  "zh": "往下跳",
+  "category": "03_Jump_Climb",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Punching.fbx",
+  "name": "Punching",
+  "zh": "出拳",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Mma Kick.fbx",
+  "name": "Mma Kick",
+  "zh": "踢腿",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Sword And Shield Slash.fbx",
+  "name": "Sword And Shield Slash",
+  "zh": "剑盾挥砍",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Great Sword Slash.fbx",
+  "name": "Great Sword Slash",
+  "zh": "大剑挥砍",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Standing 1H Magic Attack 01.fbx",
+  "name": "Standing 1H Magic Attack 01",
+  "zh": "单手施法",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Standing Draw Arrow.fbx",
+  "name": "Standing Draw Arrow",
+  "zh": "拉弓射箭",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Block.fbx",
+  "name": "Block",
+  "zh": "格挡",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Dodging.fbx",
+  "name": "Dodging",
+  "zh": "闪避",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Hit Reaction.fbx",
+  "name": "Hit Reaction",
+  "zh": "受击",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Head Hit.fbx",
+  "name": "Head Hit",
+  "zh": "头部受击",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Falling Back Death.fbx",
+  "name": "Falling Back Death",
+  "zh": "向后倒地死亡",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Dying.fbx",
+  "name": "Dying",
+  "zh": "死亡",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Getting Up.fbx",
+  "name": "Getting Up",
+  "zh": "从地上起身",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "04_Combat/Knocked Down.fbx",
+  "name": "Knocked Down",
+  "zh": "被击倒",
+  "category": "04_Combat",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Opening.fbx",
+  "name": "Opening",
+  "zh": "开门/开东西",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Picking Up.fbx",
+  "name": "Picking Up",
+  "zh": "捡起物品",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Button Pushing.fbx",
+  "name": "Button Pushing",
+  "zh": "按按钮",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Pushing.fbx",
+  "name": "Pushing",
+  "zh": "推",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Pull Heavy Object.fbx",
+  "name": "Pull Heavy Object",
+  "zh": "拖拽重物",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Pulling Lever.fbx",
+  "name": "Pulling Lever",
+  "zh": "拉拉杆",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Stand To Sit.fbx",
+  "name": "Stand To Sit",
+  "zh": "坐下",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Sit To Stand.fbx",
+  "name": "Sit To Stand",
+  "zh": "站起",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Sitting Idle.fbx",
+  "name": "Sitting Idle",
+  "zh": "坐着待机",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Laying Idle.fbx",
+  "name": "Laying Idle",
+  "zh": "躺着待机",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Laying Sleeping.fbx",
+  "name": "Laying Sleeping",
+  "zh": "躺着睡觉",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "05_Interact/Sleeping Idle.fbx",
+  "name": "Sleeping Idle",
+  "zh": "睡觉",
+  "category": "05_Interact",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Waving.fbx",
+  "name": "Waving",
+  "zh": "挥手",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Head Nod Yes.fbx",
+  "name": "Head Nod Yes",
+  "zh": "点头",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Shaking Head No.fbx",
+  "name": "Shaking Head No",
+  "zh": "摇头",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Clapping.fbx",
+  "name": "Clapping",
+  "zh": "鼓掌",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Cheering.fbx",
+  "name": "Cheering",
+  "zh": "欢呼",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Crying.fbx",
+  "name": "Crying",
+  "zh": "哭",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Angry.fbx",
+  "name": "Angry",
+  "zh": "生气",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Thinking.fbx",
+  "name": "Thinking",
+  "zh": "思考",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Talking.fbx",
+  "name": "Talking",
+  "zh": "说话手势",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Shrugging.fbx",
+  "name": "Shrugging",
+  "zh": "耸肩",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Bashful.fbx",
+  "name": "Bashful",
+  "zh": "害羞",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Excited.fbx",
+  "name": "Excited",
+  "zh": "兴奋",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Victory.fbx",
+  "name": "Victory",
+  "zh": "胜利",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Salute.fbx",
+  "name": "Salute",
+  "zh": "敬礼",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Pointing.fbx",
+  "name": "Pointing",
+  "zh": "指向",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Laughing.fbx",
+  "name": "Laughing",
+  "zh": "大笑",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Blow A Kiss.fbx",
+  "name": "Blow A Kiss",
+  "zh": "飞吻",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "06_Emote/Surprised.fbx",
+  "name": "Surprised",
+  "zh": "惊讶",
+  "category": "06_Emote",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "07_Dance/Hip Hop Dancing.fbx",
+  "name": "Hip Hop Dancing",
+  "zh": "嘻哈舞",
+  "category": "07_Dance",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "07_Dance/Samba Dancing.fbx",
+  "name": "Samba Dancing",
+  "zh": "桑巴舞",
+  "category": "07_Dance",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "07_Dance/Silly Dancing.fbx",
+  "name": "Silly Dancing",
+  "zh": "搞怪舞",
+  "category": "07_Dance",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "08_Daily/Drinking.fbx",
+  "name": "Drinking",
+  "zh": "喝东西",
+  "category": "08_Daily",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "08_Daily/Talking On Phone.fbx",
+  "name": "Talking On Phone",
+  "zh": "打电话",
+  "category": "08_Daily",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "08_Daily/Texting While Standing.fbx",
+  "name": "Texting While Standing",
+  "zh": "站着看手机/打字",
+  "category": "08_Daily",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "08_Daily/Arm Stretching.fbx",
+  "name": "Arm Stretching",
+  "zh": "伸懒腰",
+  "category": "08_Daily",
+  "inPlace": false,
+  "withSkin": false
+ },
+ {
+  "file": "08_Daily/Typing.fbx",
+  "name": "Typing",
+  "zh": "打字（坐姿）",
+  "category": "08_Daily",
+  "inPlace": false,
+  "withSkin": false
+ }
+]
