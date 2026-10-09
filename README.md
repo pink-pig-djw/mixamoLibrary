@@ -107,3 +107,74 @@
 - Texting While Standing.fbx — 站着看手机/打字
 - Arm Stretching.fbx — 伸懒腰
 - Typing.fbx — 打字（坐姿）
+
+## 09_Female_Locomotion
+
+- Female Walk.fbx — 女生走路（原地）
+- Female Start Walking.fbx — 女生起步
+- Female Stop Walking.fbx — 女生停下
+- Happy Walk.fbx — 开心地走（原地）
+- Sad Walk.fbx — 低落地走（原地）
+- Happy Walk Backward.fbx — 开心地后退（原地）
+- Female Standing Pose - Arms Down.fbx — 女生站姿（手自然下垂）
+- Female Standing Pose - Hands On Hips.fbx — 女生站姿（叉腰回头看）
+- Female Standing Pose - Legs Crossed.fbx — 女生站姿（交叉腿单手叉腰）
+- Female Idle To Walk.fbx — 女生从站立到起步
+
+## 10_Transitions
+
+- Run To Stop.fbx — 跑步急停
+- Walking Turn 180.fbx — 边走边转身180度
+- Walking Left Turn.fbx — 边走边左转（镜像即右转）（原地）
+- Stand Up - From Back.fbx — 仰躺起身
+- Stand Up - From Seated.fbx — 从坐姿站起
+- Stand Up - From Stomach.fbx — 趴着起身
+- Kneeling Down.fbx — 站着跪下
+
+## 11_Seaside
+
+- Swimming.fbx — 游泳（原地）
+- Swimming To Edge.fbx — 游到岸边
+- Treading Water.fbx — 水中漂浮/踩水
+- Fishing Cast.fbx — 钓鱼抛竿收线
+- Fishing Idle.fbx — 钓鱼等待
+- Throw.fbx — 扔东西
+- Frisbee Throw.fbx — 扔飞盘
+- Lying Down.fbx — 躺下
+
+## 12_Dialogue
+
+- Sitting Talking.fbx — 坐着聊天
+- Agreeing.fbx — 附和点头
+- Acknowledging.fbx — 表示知道了
+- Annoyed Head Shake.fbx — 不耐烦摇头
+- Look Away Gesture.fbx — 移开视线
+- Hand Raising.fbx — 举手
+- Relieved Sigh.fbx — 松一口气
+- Disappointed.fbx — 失望
+- Nervously Look Around.fbx — 紧张地四处看
+- Thankful.fbx — 道谢
+- Talking - Funny.fbx — 边说边觉得好笑
+- Cheering While Sitting.fbx — 坐着欢呼
+- Sitting Laughing.fbx — 坐着笑
+- Beckoning.fbx — 坐着招手叫人过来
+
+## 13_Japanese
+
+- Quick Formal Bow.fbx — 正式鞠躬
+- Quick Informal Bow.fbx — 随意点头鞠躬
+- Standing Greeting.fbx — 站着打招呼
+- Kneeling Idle.fbx — 跪着待机
+- Praying.fbx — 站着祈祷（神社参拜）
+
+## 14_Daily_Plus
+
+- Box Idle.fbx — 抱着箱子站着
+- Putting Down.fbx — 放下东西
+- Sitting Drinking.fbx — 坐着喝饮料
+- Leaning On Wall.fbx — 靠墙站
+- Neck Stretching.fbx — 活动脖子
+- Waving - Both Hands.fbx — 双手挥手
+
+## 没找到的
+- 吃东西、看书、扫地、看手表：Mixamo 上没有对应的动作，暂时跳过

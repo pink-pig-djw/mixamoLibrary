@@ -638,5 +638,406 @@
   "category": "08_Daily",
   "inPlace": false,
   "withSkin": false
- }
+ },
+
+  {
+    "file": "09_Female_Locomotion/Female Idle To Walk.fbx",
+    "name": "Female Idle To Walk",
+    "zh": "女生从站立到起步",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Standing Pose - Arms Down.fbx",
+    "name": "Female Standing Pose - Arms Down",
+    "zh": "女生站姿（手自然下垂）",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Standing Pose - Hands On Hips.fbx",
+    "name": "Female Standing Pose - Hands On Hips",
+    "zh": "女生站姿（叉腰回头看）",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Standing Pose - Legs Crossed.fbx",
+    "name": "Female Standing Pose - Legs Crossed",
+    "zh": "女生站姿（交叉腿单手叉腰）",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Start Walking.fbx",
+    "name": "Female Start Walking",
+    "zh": "女生起步",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Stop Walking.fbx",
+    "name": "Female Stop Walking",
+    "zh": "女生停下",
+    "category": "09_Female_Locomotion",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Female Walk.fbx",
+    "name": "Female Walk",
+    "zh": "女生走路",
+    "category": "09_Female_Locomotion",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Happy Walk Backward.fbx",
+    "name": "Happy Walk Backward",
+    "zh": "开心地后退",
+    "category": "09_Female_Locomotion",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Happy Walk.fbx",
+    "name": "Happy Walk",
+    "zh": "开心地走",
+    "category": "09_Female_Locomotion",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "09_Female_Locomotion/Sad Walk.fbx",
+    "name": "Sad Walk",
+    "zh": "低落地走",
+    "category": "09_Female_Locomotion",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Kneeling Down.fbx",
+    "name": "Kneeling Down",
+    "zh": "站着跪下",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Run To Stop.fbx",
+    "name": "Run To Stop",
+    "zh": "跑步急停",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Stand Up - From Back.fbx",
+    "name": "Stand Up - From Back",
+    "zh": "仰躺起身",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Stand Up - From Seated.fbx",
+    "name": "Stand Up - From Seated",
+    "zh": "从坐姿站起",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Stand Up - From Stomach.fbx",
+    "name": "Stand Up - From Stomach",
+    "zh": "趴着起身",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Walking Left Turn.fbx",
+    "name": "Walking Left Turn",
+    "zh": "边走边左转（镜像即右转）",
+    "category": "10_Transitions",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "10_Transitions/Walking Turn 180.fbx",
+    "name": "Walking Turn 180",
+    "zh": "边走边转身180度",
+    "category": "10_Transitions",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Fishing Cast.fbx",
+    "name": "Fishing Cast",
+    "zh": "钓鱼抛竿收线",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Fishing Idle.fbx",
+    "name": "Fishing Idle",
+    "zh": "钓鱼等待",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Frisbee Throw.fbx",
+    "name": "Frisbee Throw",
+    "zh": "扔飞盘",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Lying Down.fbx",
+    "name": "Lying Down",
+    "zh": "躺下",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Swimming To Edge.fbx",
+    "name": "Swimming To Edge",
+    "zh": "游到岸边",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Swimming.fbx",
+    "name": "Swimming",
+    "zh": "游泳",
+    "category": "11_Seaside",
+    "inPlace": true,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Throw.fbx",
+    "name": "Throw",
+    "zh": "扔东西",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "11_Seaside/Treading Water.fbx",
+    "name": "Treading Water",
+    "zh": "水中漂浮/踩水",
+    "category": "11_Seaside",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Acknowledging.fbx",
+    "name": "Acknowledging",
+    "zh": "表示知道了",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Agreeing.fbx",
+    "name": "Agreeing",
+    "zh": "附和点头",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Annoyed Head Shake.fbx",
+    "name": "Annoyed Head Shake",
+    "zh": "不耐烦摇头",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Beckoning.fbx",
+    "name": "Beckoning",
+    "zh": "坐着招手叫人过来",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Cheering While Sitting.fbx",
+    "name": "Cheering While Sitting",
+    "zh": "坐着欢呼",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Disappointed.fbx",
+    "name": "Disappointed",
+    "zh": "失望",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Hand Raising.fbx",
+    "name": "Hand Raising",
+    "zh": "举手",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Look Away Gesture.fbx",
+    "name": "Look Away Gesture",
+    "zh": "移开视线",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Nervously Look Around.fbx",
+    "name": "Nervously Look Around",
+    "zh": "紧张地四处看",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Relieved Sigh.fbx",
+    "name": "Relieved Sigh",
+    "zh": "松一口气",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Sitting Laughing.fbx",
+    "name": "Sitting Laughing",
+    "zh": "坐着笑",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Sitting Talking.fbx",
+    "name": "Sitting Talking",
+    "zh": "坐着聊天",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Talking - Funny.fbx",
+    "name": "Talking - Funny",
+    "zh": "边说边觉得好笑",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "12_Dialogue/Thankful.fbx",
+    "name": "Thankful",
+    "zh": "道谢",
+    "category": "12_Dialogue",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "13_Japanese/Kneeling Idle.fbx",
+    "name": "Kneeling Idle",
+    "zh": "跪着待机",
+    "category": "13_Japanese",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "13_Japanese/Praying.fbx",
+    "name": "Praying",
+    "zh": "站着祈祷（神社参拜）",
+    "category": "13_Japanese",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "13_Japanese/Quick Formal Bow.fbx",
+    "name": "Quick Formal Bow",
+    "zh": "正式鞠躬",
+    "category": "13_Japanese",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "13_Japanese/Quick Informal Bow.fbx",
+    "name": "Quick Informal Bow",
+    "zh": "随意点头鞠躬",
+    "category": "13_Japanese",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "13_Japanese/Standing Greeting.fbx",
+    "name": "Standing Greeting",
+    "zh": "站着打招呼",
+    "category": "13_Japanese",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Box Idle.fbx",
+    "name": "Box Idle",
+    "zh": "抱着箱子站着",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Leaning On Wall.fbx",
+    "name": "Leaning On Wall",
+    "zh": "靠墙站",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Neck Stretching.fbx",
+    "name": "Neck Stretching",
+    "zh": "活动脖子",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Putting Down.fbx",
+    "name": "Putting Down",
+    "zh": "放下东西",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Sitting Drinking.fbx",
+    "name": "Sitting Drinking",
+    "zh": "坐着喝饮料",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  },
+  {
+    "file": "14_Daily_Plus/Waving - Both Hands.fbx",
+    "name": "Waving - Both Hands",
+    "zh": "双手挥手",
+    "category": "14_Daily_Plus",
+    "inPlace": false,
+    "withSkin": false
+  }
 ]
